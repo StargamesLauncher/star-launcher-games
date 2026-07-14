@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Star Rover",
+    "description": "A quick text-adventure test game — explore an unknown planet and choose your path.",
+    "url": "https://github.com/StargamesLauncher/star-launcher-games/releases/download/v1/TestGame.bat",
+    "fileName": "TestGame.bat"
+  }
+]
